@@ -14,13 +14,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## [](https://github.com/mgea/PEC3_Manovich_Reloaded#re-descubriendo-la-hibridacion-caso-1)Klaus
 
-![enter image description here](https://i.blogs.es/44c6b5/klaus-cartel/1366_2000.jpeg)
+![Klaus](https://i.blogs.es/44c6b5/klaus-cartel/1366_2000.jpeg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-[![Tràiler pel·lícula Klaus](https://www.youtube.com/watch?v=F74gWXU5ZXE)
+https://www.youtube.com/watch?v=F74gWXU5ZXE
 
 ## [](https://github.com/mgea/PEC3_Manovich_Reloaded#re-descubriendo-la-hibridacion-caso-2)Klimt: L'experiència immersiva
+
+![klimt experiencia inmersiva](https://www.neo2.com/wp-content/uploads/2021/04/KLIMT-la-experiencia-inmersiva-por-1.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -29,5 +31,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 -   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTkzOTIyNzRdfQ==
+eyJoaXN0b3J5IjpbLTMwOTA1OTk0NV19
 -->
