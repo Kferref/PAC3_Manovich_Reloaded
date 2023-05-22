@@ -1,12 +1,12 @@
 
 
-# PEC3: Visionando el futuro con las gafas de Manovich
+# PAC3: Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
 
 ### [](https://github.com/mgea/PEC3_Manovich_Reloaded#recurso-de-aprendizaje-de-cultura-digital)Recurso de aprendizaje de Cultura Digital
 
-Autor:
+Autor: Kevin Ferré
 
-Fecha:
+Fecha:	22/05/2023
 
 [![Cultura Digital](https://camo.githubusercontent.com/37270880e2f8b9c6e33b2c64e1704490194af52a57c6a9829f632cd9b7662b83/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a395079794e76724f32506344334b75552e706e67)](https://camo.githubusercontent.com/37270880e2f8b9c6e33b2c64e1704490194af52a57c6a9829f632cd9b7662b83/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a395079794e76724f32506344334b75552e706e67)
 
@@ -26,5 +26,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 -   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxOTU5OTczXX0=
+eyJoaXN0b3J5IjpbNTI1MTgxNjk5XX0=
 -->
