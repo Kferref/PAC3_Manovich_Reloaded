@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 
-## [](https://github.com/mgea/PEC3_Manovich_Reloaded#re-descubriendo-la-hibridacion-caso-1) <img src="./video.png" width="35" height="35"> Klaus
+## [](https://github.com/mgea/PEC3_Manovich_Reloaded#re-descubriendo-la-hibridacion-caso-1) <img src="./video (1).png" width="35" height="35"> Klaus
 
 ![Klaus](https://i.blogs.es/44c6b5/klaus-cartel/1366_2000.jpeg)
 
@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=F74gWXU5ZXE
 
 
 
-## [](https://github.com/mgea/PEC3_Manovich_Reloaded#re-descubriendo-la-hibridacion-caso-2) :art: Klimt: L'experiència immersiva
+## [](https://github.com/mgea/PEC3_Manovich_Reloaded#re-descubriendo-la-hibridacion-caso-2) <img src="./realidad-virtual.png" width="35" height="35"> Klimt: L'experiència immersiva
 
 ![klimt experiencia inmersiva](https://www.neo2.com/wp-content/uploads/2021/04/KLIMT-la-experiencia-inmersiva-por-1.jpg)
 
