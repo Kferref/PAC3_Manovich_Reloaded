@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 
-## [](https://github.com/mgea/PEC3_Manovich_Reloaded#re-descubriendo-la-hibridacion-caso-1) :movie_camera: Klaus
+## [](https://github.com/mgea/PEC3_Manovich_Reloaded#re-descubriendo-la-hibridacion-caso-1) <img src="./video.png" width="35" height="35"> Klaus
 
 ![Klaus](https://i.blogs.es/44c6b5/klaus-cartel/1366_2000.jpeg)
 
