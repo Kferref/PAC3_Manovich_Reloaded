@@ -28,7 +28,7 @@ El 15 de novembre de 2019, Netflix va estrenar la pel·lícula d’animació Kla
  
 Amb la pel·lícula Klaus, Sergio va voler superar les limitacions actuals de l’animació tradicional, afegint una il·luminació orgànica i així poder crear escenes semblants al 3D com per exemple pel·lícules com <<Toy Story>> que utilitzen tecnologies CGI (Computer-generated imagery)en la totalitat de la trama, però que en el cas de Klaus les escenes i personatges han estat dibuixats a mà, mesclades amb tècniques actuals de postproducció. Aquí ja podem veure, tal i com ens diu en el llibre “El software toma el mando”,  “... en els híbrids de mitjans, les interfícies, tècniques i en última instància les pressuposicions més bàsiques dels diversos formats i tradicions de mitjans s'uneixen i donen peu a noves gestalts de mitjans. És a dir, es fusionen per a oferir una experiència nova i coherent, que és diferent a experimentar els elements d'un en un.” (Lev Manovich), com la hi ha una combinació de medis, en aquest cas 2D i 3D, que mitjançant tècniques tradicionals amb les noves possibilitats, es fusionen i formen una nova manera de percebre’ls, aconseguint així, una revolució en el món del setè art.  
 
-![Process]([https://i.blogs.es/44c6b5/klaus-cartel/1366_2000.jpeg](https://www.hugorodriguez.com/blog/wp-content/uploads/2020/02/klaus_feature-1024x602.jpg)
+![Process](https://i.blogs.es/44c6b5/klaus-cartel/1366_2000.jpeg](https://www.hugorodriguez.com/blog/wp-content/uploads/2020/02/klaus_feature-1024x602.jpg)
  
 https://www.youtube.com/watch?v=F74gWXU5ZXE
 
