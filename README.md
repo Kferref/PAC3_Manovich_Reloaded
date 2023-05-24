@@ -22,9 +22,11 @@ En aquest cas, estudiarem dos casos que són un clar exemple d'hibridació de me
 
 ## [](https://github.com/mgea/PEC3_Manovich_Reloaded#re-descubriendo-la-hibridacion-caso-1) <img src="./video (1).png" width="35" height="35"> Klaus
 
-![Klaus](https://i.blogs.es/44c6b5/klaus-cartel/1366_2000.jpeg)
+El 15 de novembre de 2019, Netflix va estrenar la pel·lícula d’animació Klaus sota la direcció de Sergio Pablos, un conegut director, productor i guionista espanyol del cinema d’animació que ha participat en pel·lícules com <<Tarzán>> i <<Rio>> entre d’altres, però que el projecte que li va obrir les portes va ser <<Gru, mi villano favorito>> on va ser un dels principals creadors de l’aclamada producció.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![Klaus](https://i.blogs.es/44c6b5/klaus-cartel/1366_2000.jpeg)
+ 
+Amb la pel·lícula Klaus, Sergio va voler superar les limitacions actuals de l’animació tradicional, afegint una il·luminació orgànica i així poder crear escenes semblants al 3D com per exemple pel·lícules com <<Toy Story>> que utilitzen tecnologies CGI (Computer-generated imagery)en la totalitat de la trama, però que en el cas de Klaus les escenes i personatges han estat dibuixats a mà, mesclades amb tècniques actuals de postproducció. Aquí ja podem veure, tal i com ens diu en el llibre “El software toma el mando”,  “... en els híbrids de mitjans, les interfícies, tècniques i en última instància les pressuposicions més bàsiques dels diversos formats i tradicions de mitjans s'uneixen i donen peu a noves gestalts de mitjans. És a dir, es fusionen per a oferir una experiència nova i coherent, que és diferent a experimentar els elements d'un en un.” (Lev Manovich), com la hi ha una combinació de medis, en aquest cas 2D i 3D, que mitjançant tèniques tradicionals amb les noves possibilitats, es fusionen i formen una nova manera de percebre’ls. Aconseguint així, una revolució en el món del setè art.  
 
 https://www.youtube.com/watch?v=F74gWXU5ZXE
 
