@@ -34,14 +34,14 @@ Per últim, la part de postproducció va tenir una gran importància, ja que és
 Tal com ens comenta Hugo Rodríguez (que va participar durant 2 anys en la producció) en el seu blog personal: 
 
 
-*Bàsicament el que es feia era:
+Bàsicament el que es feia era:
 
 1. Un primer esbós a mà alçada (encara que usant pantalles Cintiq per a dibuixar en l'ordinador).
 2. Seguidament, aquest esbós es netejava fins a aconseguir un traç únic i net.
 3. S'afegeix el fons i elements en primer pla si existissin.
 4. Després s'emplena amb el color corresponent. Cada personatge, cada peça i cada element de la pel·lícula té el seu color definit per una paleta.
 5. Aquí ve la ‘màgia’: s'aplica il·luminació basant-se a afegir ombres i zones il·luminades sobre els personatges i sobre l'entorn, la qual cosa li dona un aspecte 3D molt més realista. Es fa de manera semiautomàtica amb  un programari desenvolupat a mesura, anomenat Klas.
-6. S'afegeixen les textures pròpies de cada element (peces, etc…)*
+6. S'afegeixen les textures pròpies de cada element (peces, etc…)
 
 
 ![Process](https://www.hugorodriguez.com/blog/wp-content/uploads/2020/02/klaus_feature-1024x602.jpg)
