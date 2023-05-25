@@ -48,10 +48,13 @@ Tal com ens comenta Hugo Rodríguez (que va participar durant 2 anys en la produ
  
 Aquí ja podem veure, tal com ens diu en el llibre “El software toma el mando”,
 
-> ... en els híbrids de mitjans, les interfícies, tècniques i en última instància les pressuposicions més bàsiques dels diversos formats i tradicions de mitjans s'uneixen i donen peu a noves gestalts de mitjans. És a dir, es fusionen per a oferir una experiència nova i coherent, que és diferent a experimentar els elements d'un en un.” (Lev Manovich), 
+>   “... en els híbrids de mitjans, les interfícies, tècniques i en última instància les pressuposicions més bàsiques dels diversos formats i tradicions de mitjans s'uneixen i donen peu a noves gestalts de mitjans. És a dir, es fusionen per a oferir una experiència nova i coherent, que és diferent a experimentar els elements d'un en un.” (Lev Manovich), 
 
 com hi ha una combinació de medis, en aquest cas 2D i 3D, que mitjançant tècniques tradicionals amb les noves possibilitats, es fusionen i formen una nova manera de percebre’ls. Aconseguint així, una revolució en el món del setè art. 
  
+https://www.youtube.com/watch?v=F74gWXU5ZXE
+
+
 
 ## [](https://github.com/mgea/PEC3_Manovich_Reloaded#re-descubriendo-la-hibridacion-caso-2) <img src="./realidad-virtual.png" width="35" height="35"> Klimt: L'experiència immersiva
 
@@ -63,6 +66,12 @@ Com diu Lev Manovich en el llibre "El software toma el mando":
 
 > Los híbridos pueden combinar y reconfigurar formatos de medios conocidos e interfaces de medios para ofrecer nuevos tipos de representación híbridas.
 
+En aquest cas, **Klimt: l'experiència immersiva** és un clar exemple d'hibridació, ja que hi ha una remescla clara de medis ja existents com és l'art, la pintura, els museus, però que va un pas més enllà incorporant eines i nous medis interactius i immersius per crear una experiència totalment diferent.
+
+També podriem dir que realment l’essència i el medi no s’ha modificat (que són les obres de l’autor), sino que simplement la manera d’interaccionar o que l’espectador té la manera de percebre’l és diferent a la manera tradicional i que és més la interfície i les eines (pantalles digitals, realitat virtual, etc) que fan possible aquesta hibridació, tal com ens diu Manovich en el seu llibre:
+
+> …los híbridos pueden centrarse en nuevas maneras de navegar e interaccionar con formatos de medios ya existentes. En este caso el tipo de medio en sí ni se modifica ni se combina con otros, sino que la hibridación se produce en la interfaz de usuario y las herramientas que facilita el proyecto, servicio o aplicación para trabajar con ese tipo de medios.
+
 
 
 ### [](https://github.com/mgea/PEC3_Manovich_Reloaded#referencias-y-bibliograf%C3%ADa)Referències y Bibliografia
@@ -70,5 +79,5 @@ Com diu Lev Manovich en el llibre "El software toma el mando":
 -   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjM2NjE2ODldfQ==
+eyJoaXN0b3J5IjpbLTg5MzQ3MDAxXX0=
 -->
