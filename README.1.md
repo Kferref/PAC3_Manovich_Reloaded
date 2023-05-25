@@ -46,22 +46,16 @@ Tal com ens comenta Hugo Rodríguez (que va participar durant 2 anys en la produ
 
 ![Process](https://www.hugorodriguez.com/blog/wp-content/uploads/2020/02/klaus_feature-1024x602.jpg)
  
-Aquí ja podem veure, tal com ens diu en el llibre “El software toma el mando”:  
+Aquí ja podem veure, tal com ens diu en el llibre “El software toma el mando”,
 
-> ... en els híbrids de mitjans, les interfícies, tècniques i en última
-> instància les pressuposicions més bàsiques dels diversos formats i
-> tradicions de mitjans s'uneixen i donen peu a noves gestalts de
-> mitjans. És a dir, es fusionen per a oferir una experiència nova i
-> coherent, que és diferent a experimentar els elements d'un en un.”
-> (Lev Manovich),
+> ... en els híbrids de mitjans, les interfícies, tècniques i en última instància les pressuposicions més bàsiques dels diversos formats i tradicions de mitjans s'uneixen i donen peu a noves gestalts de mitjans. És a dir, es fusionen per a oferir una experiència nova i coherent, que és diferent a experimentar els elements d'un en un.” (Lev Manovich), 
 
 com hi ha una combinació de medis, en aquest cas 2D i 3D, que mitjançant tècniques tradicionals amb les noves possibilitats, es fusionen i formen una nova manera de percebre’ls. Aconseguint així, una revolució en el món del setè art. 
  
-https://www.youtube.com/watch?v=F74gWXU5ZXE
-
-
 
 ## [](https://github.com/mgea/PEC3_Manovich_Reloaded#re-descubriendo-la-hibridacion-caso-2) <img src="./realidad-virtual.png" width="35" height="35"> Klimt: L'experiència immersiva
+
+**Klimt: l'experiència immersiva** és una producció basada en l'obra artística de Gustav Klimt, un dels pintors més influents del moviment modernista vienès. Aquesta experiència vol aconseguir captar l'atenció d'un públic genèric mitjançant projeccions immersives, ulleres de realitat virtual, espais expositius i eines interactives i així, fer sentir, el màxim possible, a l'espectador dins de les obres i edificis que Klimt va decorar.
 
 ![klimt experiencia inmersiva](https://www.neo2.com/wp-content/uploads/2021/04/KLIMT-la-experiencia-inmersiva-por-1.jpg)
 
@@ -72,5 +66,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 -   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyNTIyNjM2XX0=
+eyJoaXN0b3J5IjpbMTY3OTc3MDY0Nl19
 -->
