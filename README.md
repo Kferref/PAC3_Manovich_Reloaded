@@ -90,8 +90,10 @@ En conclusió, podem dir que tenim un nou cas d’hibridació fruit de remediaci
 - [Markdown Tutorial](https://tutorialmarkdown.com/)
 - [Manovich, Lev. (2013). "El software toma el mando"](https://campus.uoc.edu/tren/trenacc?s=64287029e501b90d5bfceaa89d4b2fcc6e2764a71c92bfd04317949d48c787c820f16841add4dde0de3819a5d7b6433a017d3dd481fe675536dd22b653d376d8&modul=DIMAX.DINAROJ/dimaxweb.Pagina&pantalla=HISTORICS&node=73486&entidad_gestora=DEF&entorn_gestio=PV20222&idioma=CAT&lang=&pantalla_his=XML_ARBRE_RECURSOS&cami=&p_entrada=PV)
 - [Adell, Ferran. (2014). "Remediación, multimedia e hibridación de los medios"](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
+- [KLIMT. La experiencia inmersiva](https://www.mataderomadrid.org/programacion/klimt-la-experiencia-inmersiva)
+- [# La leyenda de Klaus revoluciona la animación 2D en Netflix. ¿Cómo lo ha hecho?](https://www.hobbyconsolas.com/reportajes/leyenda-klaus-revoluciona-animacion-2d-netflix-como-ha-hecho-536471)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NjEyOTQ5LC0xNzIxODQ2OTMyLDE4Mj
+eyJoaXN0b3J5IjpbNjEwNDc5NzM1LC0xNzIxODQ2OTMyLDE4Mj
 U1OTI2OTQsMTU5MzcyMDU0Nl19
 -->
