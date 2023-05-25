@@ -4,9 +4,9 @@
 
 ### [](https://github.com/mgea/PEC3_Manovich_Reloaded#recurso-de-aprendizaje-de-cultura-digital)Recurso de aprendizaje de Cultura Digital
 
-Autor: Kevin Ferré
+**Autor: Kevin Ferré**
 
-Fecha:	22/05/2023
+**Fecha:	22/05/2023**
 
 ## [](https://github.com/mgea/PEC3_Manovich_Reloaded#planteamiento)Plantejament
 
