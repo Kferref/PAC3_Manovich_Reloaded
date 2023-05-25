@@ -72,12 +72,12 @@ També podriem dir que realment l’essència i el medi no s’ha modificat (que
 
 > …los híbridos pueden centrarse en nuevas maneras de navegar e interaccionar con formatos de medios ya existentes. En este caso el tipo de medio en sí ni se modifica ni se combina con otros, sino que la hibridación se produce en la interfaz de usuario y las herramientas que facilita el proyecto, servicio o aplicación para trabajar con ese tipo de medios.
 
-
+![Klimt](https://media.traveler.es/photos/6230b4d90279ac67d6607556/16:9/w_2560,c_limit/MAD%2520KLIMT_KISS%25202.jpg)
 
 ### [](https://github.com/mgea/PEC3_Manovich_Reloaded#referencias-y-bibliograf%C3%ADa)Referències y Bibliografia
 
 -   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MzQ3MDAxXX0=
+eyJoaXN0b3J5IjpbMTU0Mjc4NzY2M119
 -->
