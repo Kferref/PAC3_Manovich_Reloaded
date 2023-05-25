@@ -74,13 +74,22 @@ També podriem dir que realment l’essència i el medi no s’ha modificat (que
 
 ![Klimt](https://media.traveler.es/photos/6230b4d90279ac67d6607556/16:9/w_2560,c_limit/MAD%2520KLIMT_KISS%25202.jpg)
 
+Les seves exposicions consten d'uns 1200 metres quadrats de pantalles de realitat digital, on hi ha sales immenses on l'espectador es pot asseure al centre i les pantalles projecten l'interior dels edificis sencers amb obres de Gutav Klimt en moviment. Tot això, amb un àudio envoltant que encara ajuda més a la profunda immersió i capacitat de traslladar-se a l'època de Viena de canvi de segle.
 
+A més, en una de les sales del recorregut, es representa a través de les pantalles que conformen les parets, un vídeo realitzat en 3D d'una de les seves pintures més importants que és considerada la primera de la seva època daurada: **Judit I**. Aquesta, fa una introducció de dona pas a la visualització de l'obra artística original de l'autor, seguit de les obres que va pintar en aquella època.
+
+![Judit I](https://offloadmedia.feverup.com/madridsecreto.co/wp-content/uploads/2021/12/02102229/klimt-expo.jpg)
+
+En conclusió, podem dir que tenim un nou cas d’hibridació fruit de remediació i transcodificació de medis (art, video, imatges, etc) i l’aparició d’altres de nous (realitat virtual) i que encara que hi poden haver diversos camins per definir l’hibridació, el cert és que el món digital i tecnològic, actualment ens permet fer, interacctuar i viure amb noves formes i varietat d’experiències.
+
+> En resumen, un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con formatos de medios no modificados. Por otro lado, un híbrido puede definir nuevos formatos de medios, pero utilizar técnicas de interacción/interfaz ya existentes. Un híbrido también puede combinar ambas estrategias, es decir, definir nuevas interfaces/herramientas y nuevos formatos de medios al mismo tiempo. (Lev Manovich)
 
 ### [](https://github.com/mgea/PEC3_Manovich_Reloaded#referencias-y-bibliograf%C3%ADa)Referències y Bibliografia
 
 -   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NTU3NTg5LDE4MjU1OTI2OTQsMTU5Mz
-cyMDU0Nl19
+eyJoaXN0b3J5IjpbLTE3MjE4NDY5MzIsMTgyNTU5MjY5NCwxNT
+kzNzIwNTQ2XX0=
 -->
