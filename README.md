@@ -62,13 +62,17 @@ https://www.youtube.com/watch?v=F74gWXU5ZXE
 
 ![klimt experiencia inmersiva](https://www.neo2.com/wp-content/uploads/2021/04/KLIMT-la-experiencia-inmersiva-por-1.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Com diu Lev Manovich en el llibre "El software toma el mando":
+
+> Los híbridos pueden combinar y reconfigurar formatos de medios conocidos e interfaces de medios para ofrecer nuevos tipos de representación híbridas.
+
+
 
 ### [](https://github.com/mgea/PEC3_Manovich_Reloaded#referencias-y-bibliograf%C3%ADa)Referències y Bibliografia
 
 -   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTU5MjY5NCwxNjc5NzcwNjQ2LDE1OT
-M3MjA1NDZdfQ==
+eyJoaXN0b3J5IjpbMjU0NjE2NTUxLDE4MjU1OTI2OTQsMTU5Mz
+cyMDU0Nl19
 -->
