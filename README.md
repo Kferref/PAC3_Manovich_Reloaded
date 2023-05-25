@@ -87,9 +87,10 @@ En conclusió, podem dir que tenim un nou cas d’hibridació fruit de remediaci
 ### [](https://github.com/mgea/PEC3_Manovich_Reloaded#referencias-y-bibliograf%C3%ADa)Referències y Bibliografia
 
 -   Manovich, Lev. (2013).  **El Software toma el mando**. Barcelona: Editorial UOC.
-- 
+- [Markdown Tutorial](https://tutorialmarkdown.com/)
+- [Manovich, Lev. (2013). "El software toma el mando"](https://campus.uoc.edu/tren/trenacc?s=64287029e501b90d5bfceaa89d4b2fcc6e2764a71c92bfd04317949d48c787c820f16841add4dde0de3819a5d7b6433a017d3dd481fe675536dd22b653d376d8&modul=DIMAX.DINAROJ/dimaxweb.Pagina&pantalla=HISTORICS&node=73486&entidad_gestora=DEF&entorn_gestio=PV20222&idioma=CAT&lang=&pantalla_his=XML_ARBRE_RECURSOS&cami=&p_entrada=PV)](https://campus.uoc.edu/tren/trenacc?s=64287029e501b90d5bfceaa89d4b2fcc6e2764a71c92bfd04317949d48c787c820f16841add4dde0de3819a5d7b6433a017d3dd481fe675536dd22b653d376d8&modul=DIMAX.DINAROJ/dimaxweb.Pagina&pantalla=HISTORICS&node=73486&entidad_gestora=DEF&entorn_gestio=PV20222&idioma=CAT&lang=&pantalla_his=XML_ARBRE_RECURSOS&cami=&p_entrada=PV)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjE4NDY5MzIsMTgyNTU5MjY5NCwxNT
-kzNzIwNTQ2XX0=
+eyJoaXN0b3J5IjpbOTczODU4NTU0LC0xNzIxODQ2OTMyLDE4Mj
+U1OTI2OTQsMTU5MzcyMDU0Nl19
 -->
